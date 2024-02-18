@@ -1,10 +1,10 @@
 {
-  "name": "next-14-empty-starter-template",
-  "description": "hot nextjs topic for youtube",
+  "name": "next-frontend-01",
+  "description": "next-frontend-01",
   "version": "0.1.0",
   "author": {
-    "name": "Hỏi Dân IT",
-    "url": "https://hoidanit.com.vn"
+    "name": "TKTK",
+    "url": "https://tktk.com.vn"
   },
   "private": true,
   "scripts": {
